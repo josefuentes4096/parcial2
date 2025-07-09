@@ -1,0 +1,745 @@
+1001
+Juan
+Gómez
+31242038
+2
+3
+Belgrano 330, CABA
+Belgrano 3764, CABA
+3072025
+12
+7.3
+4
+Rivadavia 1736, CABA
+Perón 2371, CABA
+3072025
+3
+24.0
+1
+Entre Ríos 1689, CABA
+Rivadavia 402, CABA
+3072025
+11
+14.8
+1
+1002
+Ana
+Martínez
+38395427
+1
+3
+Belgrano 497, CABA
+Tucumán 3601, CABA
+3072025
+8
+8.7
+1
+Alsina 2314, CABA
+Belgrano 2941, CABA
+3072025
+8
+18.1
+1
+Entre Ríos 871, CABA
+Salta 3886, CABA
+3072025
+11
+21.1
+2
+1003
+Luis
+Fernández
+37700380
+1
+4
+San Juan 3845, CABA
+Santa Fe 3668, CABA
+3072025
+11
+4.1
+5
+Entre Ríos 2215, CABA
+Corrientes 2258, CABA
+3072025
+21
+11.4
+2
+Santa Fe 3427, CABA
+Defensa 3038, CABA
+3072025
+6
+6.5
+4
+Córdoba 2722, CABA
+Callao 1758, CABA
+3072025
+20
+18.3
+2
+1004
+María
+Pérez
+32158848
+2
+3
+Belgrano 2692, CABA
+Callao 3847, CABA
+3072025
+11
+23.1
+5
+Corrientes 174, CABA
+Perón 1856, CABA
+3072025
+8
+8.4
+2
+Tucumán 1799, CABA
+Corrientes 2434, CABA
+3072025
+6
+10.4
+4
+1005
+Carlos
+López
+32585245
+1
+3
+La Rioja 3749, CABA
+Callao 503, CABA
+3072025
+4
+6.1
+2
+San Juan 2699, CABA
+Salta 625, CABA
+3072025
+11
+8.3
+5
+Belgrano 2142, CABA
+Córdoba 3957, CABA
+3072025
+11
+10.7
+4
+1006
+Laura
+Díaz
+39170632
+3
+3
+Rivadavia 3751, CABA
+Mitre 2087, CABA
+3072025
+6
+16.1
+3
+Mitre 487, CABA
+La Rioja 2164, CABA
+3072025
+7
+17.3
+5
+Tucumán 2088, CABA
+Lavalle 2532, CABA
+3072025
+8
+13.8
+3
+1007
+Pedro
+Sánchez
+35995752
+3
+1
+Lavalle 1747, CABA
+Corrientes 2854, CABA
+3072025
+13
+12.7
+4
+1008
+Sofía
+Romero
+37180193
+1
+6
+Santa Fe 1623, CABA
+Independencia 2036, CABA
+3072025
+11
+8.4
+5
+Rivadavia 1681, CABA
+Santa Fe 3497, CABA
+3072025
+5
+20.0
+1
+Independencia 2984, CABA
+Santa Fe 799, CABA
+3072025
+21
+6.6
+1
+Santa Fe 3021, CABA
+Córdoba 3661, CABA
+3072025
+8
+3.4
+2
+Córdoba 3944, CABA
+Entre Ríos 3200, CABA
+3072025
+21
+17.3
+4
+Belgrano 2377, CABA
+Entre Ríos 745, CABA
+3072025
+10
+19.9
+3
+1009
+Diego
+Ruiz
+31534998
+1
+6
+Alsina 3859, CABA
+Salta 2438, CABA
+3072025
+11
+6.4
+3
+San Juan 2629, CABA
+La Rioja 3872, CABA
+3072025
+10
+15.1
+2
+San Juan 2421, CABA
+Entre Ríos 1706, CABA
+3072025
+0
+16.6
+5
+Entre Ríos 642, CABA
+Defensa 663, CABA
+3072025
+17
+22.6
+3
+Defensa 1045, CABA
+Perón 1099, CABA
+3072025
+3
+8.1
+2
+Lavalle 1989, CABA
+Independencia 1091, CABA
+3072025
+19
+11.1
+2
+1010
+Lucía
+Alvarez
+30228875
+2
+3
+Tucumán 403, CABA
+Lavalle 2432, CABA
+3072025
+18
+11.9
+5
+Independencia 383, CABA
+Lavalle 1482, CABA
+3072025
+15
+3.6
+2
+Salta 3026, CABA
+Callao 1182, CABA
+3072025
+1
+8.8
+2
+1011
+Jorge
+Torres
+30816960
+1
+6
+Santa Fe 1174, CABA
+Belgrano 2817, CABA
+3072025
+14
+4.4
+2
+Corrientes 3717, CABA
+Córdoba 1646, CABA
+3072025
+21
+15.4
+1
+Independencia 415, CABA
+Independencia 3317, CABA
+3072025
+22
+11.1
+3
+Perón 2654, CABA
+Entre Ríos 2781, CABA
+3072025
+19
+19.0
+2
+Salta 1302, CABA
+Defensa 2076, CABA
+3072025
+22
+4.1
+5
+Salta 3718, CABA
+Córdoba 2632, CABA
+3072025
+8
+10.8
+1
+1012
+Valentina
+Flores
+30047009
+3
+5
+Mitre 261, CABA
+Corrientes 3091, CABA
+3072025
+10
+11.1
+2
+Lavalle 838, CABA
+Córdoba 2952, CABA
+3072025
+6
+7.8
+3
+Mitre 3067, CABA
+Independencia 1791, CABA
+3072025
+4
+22.6
+1
+Alsina 1399, CABA
+Mitre 3177, CABA
+3072025
+13
+8.1
+5
+Lavalle 1839, CABA
+Córdoba 1437, CABA
+3072025
+6
+8.7
+3
+1013
+Ricardo
+Acosta
+36432727
+2
+1
+San Juan 3444, CABA
+Lavalle 1865, CABA
+3072025
+11
+19.0
+2
+1014
+Camila
+Silva
+32768394
+1
+5
+La Rioja 680, CABA
+La Rioja 1376, CABA
+3072025
+11
+12.7
+2
+La Rioja 1331, CABA
+Córdoba 1848, CABA
+3072025
+19
+17.7
+2
+Callao 3382, CABA
+Lavalle 298, CABA
+3072025
+14
+3.6
+2
+Belgrano 543, CABA
+La Rioja 2015, CABA
+3072025
+8
+17.3
+4
+Rivadavia 1702, CABA
+La Rioja 2435, CABA
+3072025
+15
+15.9
+3
+1015
+Martín
+Castro
+38649767
+2
+5
+Lavalle 536, CABA
+Alsina 446, CABA
+3072025
+1
+20.0
+5
+Corrientes 2251, CABA
+Salta 166, CABA
+3072025
+9
+21.8
+2
+Mitre 659, CABA
+La Rioja 294, CABA
+3072025
+12
+16.7
+1
+Córdoba 759, CABA
+San Juan 1319, CABA
+3072025
+12
+10.0
+4
+Callao 2017, CABA
+Defensa 2071, CABA
+3072025
+5
+14.2
+3
+1016
+Elena
+Ramos
+38452534
+3
+5
+Perón 1986, CABA
+San Juan 1506, CABA
+3072025
+5
+6.6
+5
+Mitre 1888, CABA
+Callao 3690, CABA
+3072025
+5
+16.9
+3
+Independencia 2688, CABA
+Salta 3809, CABA
+3072025
+18
+12.6
+4
+Independencia 2807, CABA
+San Juan 2028, CABA
+3072025
+13
+15.4
+4
+Belgrano 1040, CABA
+Callao 2315, CABA
+3072025
+15
+9.2
+4
+1017
+Esteban
+Molina
+36951853
+3
+6
+Santa Fe 916, CABA
+Alsina 2417, CABA
+3072025
+4
+12.7
+3
+Lavalle 1744, CABA
+Defensa 1830, CABA
+3072025
+8
+8.5
+3
+La Rioja 2989, CABA
+Defensa 2966, CABA
+3072025
+9
+13.9
+5
+Defensa 830, CABA
+Mitre 2225, CABA
+3072025
+20
+18.4
+2
+Alsina 790, CABA
+Salta 2445, CABA
+3072025
+3
+21.3
+4
+Independencia 3746, CABA
+Corrientes 2759, CABA
+3072025
+22
+7.2
+5
+1018
+Julieta
+Ortiz
+35387518
+2
+6
+Santa Fe 3698, CABA
+La Rioja 1498, CABA
+3072025
+9
+12.7
+4
+Santa Fe 1443, CABA
+Belgrano 3479, CABA
+3072025
+4
+9.8
+4
+Salta 1057, CABA
+Callao 3385, CABA
+3072025
+10
+17.5
+3
+La Rioja 1009, CABA
+Rivadavia 1939, CABA
+3072025
+3
+9.9
+4
+Independencia 878, CABA
+Rivadavia 789, CABA
+3072025
+2
+17.0
+4
+Córdoba 3882, CABA
+La Rioja 2314, CABA
+3072025
+5
+11.3
+3
+1019
+Manuel
+Suárez
+32952466
+1
+5
+Perón 1653, CABA
+Lavalle 1436, CABA
+3072025
+13
+21.2
+3
+Corrientes 902, CABA
+Entre Ríos 2226, CABA
+3072025
+14
+22.6
+3
+Callao 3105, CABA
+Alsina 1501, CABA
+3072025
+0
+4.4
+5
+Alsina 3140, CABA
+Independencia 3492, CABA
+3072025
+2
+19.4
+1
+Perón 2101, CABA
+Independencia 3326, CABA
+3072025
+15
+8.5
+1
+1020
+Paula
+Ferreyra
+39678660
+1
+4
+Rivadavia 2408, CABA
+Lavalle 855, CABA
+3072025
+13
+13.6
+4
+Rivadavia 1996, CABA
+La Rioja 491, CABA
+3072025
+23
+24.3
+3
+Entre Ríos 1110, CABA
+Rivadavia 529, CABA
+3072025
+11
+11.9
+1
+Salta 610, CABA
+San Juan 3774, CABA
+3072025
+7
+16.3
+5
+1021
+Ramiro
+Arias
+30320047
+3
+5
+Córdoba 178, CABA
+Rivadavia 140, CABA
+3072025
+18
+24.1
+5
+Mitre 3240, CABA
+Salta 2960, CABA
+3072025
+14
+19.2
+5
+Lavalle 852, CABA
+San Juan 3475, CABA
+3072025
+0
+14.5
+2
+Santa Fe 808, CABA
+Alsina 3226, CABA
+3072025
+3
+12.4
+2
+Belgrano 3969, CABA
+Defensa 2487, CABA
+3072025
+9
+6.2
+3
+1022
+Natalia
+Vega
+32239996
+1
+6
+Lavalle 3798, CABA
+Rivadavia 2095, CABA
+3072025
+12
+15.9
+1
+Lavalle 241, CABA
+Salta 1251, CABA
+3072025
+4
+10.8
+4
+Rivadavia 2423, CABA
+Tucumán 598, CABA
+3072025
+5
+4.2
+5
+Rivadavia 2714, CABA
+Santa Fe 2992, CABA
+3072025
+10
+15.4
+2
+San Juan 3744, CABA
+Belgrano 3643, CABA
+3072025
+12
+6.6
+3
+La Rioja 2604, CABA
+Belgrano 3845, CABA
+3072025
+23
+6.0
+3
+1023
+Andrés
+Luna
+31849736
+3
+1
+San Juan 2393, CABA
+Alsina 1673, CABA
+3072025
+7
+7.5
+5
+1024
+Florencia
+Ponce
+30724133
+2
+1
+Alsina 3840, CABA
+Salta 2126, CABA
+3072025
+8
+19.8
+4
+1025
+Tomás
+Navarro
+39307859
+3
+3
+Defensa 2475, CABA
+Corrientes 3343, CABA
+3072025
+15
+16.0
+5
+Alsina 1770, CABA
+Perón 1587, CABA
+3072025
+21
+17.3
+4
+Mitre 1817, CABA
+Rivadavia 2616, CABA
+3072025
+0
+14.6
+1
+0
